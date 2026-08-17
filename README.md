@@ -1,1 +1,10 @@
-# cuadernillo-html-2026
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera página</title>
+</head>
+<body>
+    <h1>¡Hola, mundo!</h1>
+    <p>Este es el primer sitio web creado desde el Bloc de notas.</p>
+</body>
+</html>
